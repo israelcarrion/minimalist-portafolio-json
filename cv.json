@@ -1,0 +1,242 @@
+{
+    "basics": {
+      "name": "Israel Carrión García",
+      "label": "Desarrollador Web Full Stack Java",
+      "image": "./src/img/1702483502380.png",
+      "email": "israelcarrion.g@gmail.com",
+      "phone": "(54) 11-5911-8030",
+      "url": "https://johndoe.com",
+      "summary": "Soy Desarrollador Web Full Stack Java cuyo objetivo profesional es desempeñarme y ofrecer todas mis capacidades innatas consiguiendo un excelente resultado en la labor y el área asignada, además de adquirir una experiencia con la cual conseguiré un gran paso profesional.",
+      "location": {
+        "address": "Lugano",
+        "postalCode": "1439",
+        "city": "Buenos Aires - Capital",
+        "countryCode": "AR",
+        "country": "Argentina"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Israel Carrion Garcia",
+          "url": "https://www.linkedin.com/in/israelcarrion/"
+        },
+        {
+          "network": "GitHub",
+          "username": "Israel Carrion Garcia",
+          "url": "https://github.com/israelcarrion"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Perez-Uriona",
+        "position": "Administrativo",
+        "url": "",
+        "startDate": "2018-02-01",
+        "endDate": "2019-06-30",
+        "summary": "Mis principales funciones fueron el cobro de alquileres, liquidación de impuestos, pago de proveedores, revisión de saldos, solicitud de presupuestos.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "SAR-Bolivia",
+      "position": "Voluntario",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2015-12-01",
+      "summary": "Se trato de una formación para realizar tareas como bombero estructural, bombero forestal, paramédico y rescatista",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [
+      {
+      "institution": "MindHub",
+      "url": "https://institution.com/",
+      "area": "Desarrollador FullStack Java",
+      "studyType": "Bootcamp de desarrollo intensivo con +700hs de desarrollo de proyectos individuales y grupales, simulando un ambiente real de trabajo y utilizando metodologías agiles.",
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-15",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+      },
+      {
+        "institution": "IES Escola Industrial - Barcelona",
+        "url": "https://institution.com/",
+        "area": "Técnico Superior en Adiministración",
+        "studyType": "Formación Profesional",
+        "startDate": "2011-09-10",
+        "endDate": "2013-08-31",
+        "score": "4.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+        }
+    ],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Vue.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "Bootstrap",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "Servidor"
+        ]
+      },
+      {
+        "name": "Spring",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos"
+        ]
+      },
+      {
+        "name": "Postman",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "ChapterOne",
+        "startDate": "2023-11-01",
+        "endDate": "2023-11-30",
+        "isActive": false,
+        "description": "Se trato de una tienda de libros y fue un trabajo grupal, me encargue el Backend pero participe también del Frontend. Utilizamos GitHub para un trabajo organizado.",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://github.com/israelcarrion/ChapterOne"
+      },
+      {
+        "name": "Homebanking",
+        "startDate": "2023-10-01",
+        "endDate": "2023-10-31",
+        "isActive": false,
+        "description": "Fue un trabajo individual que abarco la parte del Frontend como Backend. Utilice en la parte del back: Java, Spring, SQL, Postman.",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://github.com/israelcarrion/BancMareNostrum"
+      },
+      {
+        "name": "PetShop",
+        "startDate": "2023-09-01",
+        "endDate": "2023-09-30",
+        "isActive": false,
+        "description": "Se trato de un trabajo grupal donde se maquetó y armo de una tienda de mascotas. Utilizamos HTML, CSS, JavaScript, Vue.js y Bootstrap. Implementamos un diseño web responsive.",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://github.com/israelcarrion/PetShopDrCanin"
+      }
+    ]
+  }
