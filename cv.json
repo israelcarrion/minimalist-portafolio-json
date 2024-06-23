@@ -212,7 +212,7 @@
         "isActive": false,
         "description": "Se trato de una tienda de libros y fue un trabajo grupal, me encargue el Backend pero participe también del Frontend. Utilizamos GitHub para un trabajo organizado.",
         "highlights": [
-          "Won award at AIHacks 2016"
+          "Java", "Sprin", "SQL"
         ],
         "url": "https://github.com/israelcarrion/ChapterOne"
       },
@@ -223,7 +223,7 @@
         "isActive": false,
         "description": "Fue un trabajo individual que abarco la parte del Frontend como Backend. Utilice en la parte del back: Java, Spring, SQL, Postman.",
         "highlights": [
-          "Won award at AIHacks 2016"
+          "Java", "Sprin", "Postman"
         ],
         "url": "https://github.com/israelcarrion/BancMareNostrum"
       },
@@ -234,7 +234,7 @@
         "isActive": false,
         "description": "Se trato de un trabajo grupal donde se maquetó y armo de una tienda de mascotas. Utilizamos HTML, CSS, JavaScript, Vue.js y Bootstrap. Implementamos un diseño web responsive.",
         "highlights": [
-          "Won award at AIHacks 2016"
+          "Responsive", "Bootstrap"
         ],
         "url": "https://github.com/israelcarrion/PetShopDrCanin"
       }
