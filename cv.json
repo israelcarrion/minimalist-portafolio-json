@@ -206,7 +206,18 @@
     }],
     "projects": [
       {
-        "name": "ChapterOne",
+        "name": "Amazing Events",
+        "startDate": "2024-07-01",
+        "endDate": "2024-07-03",
+        "isActive": false,
+        "description": "Es una web diseñada para publicitar eventos sociales y consume datos dinámicos desde una API mediante Fetch. Además, se adapta perfectamente a cualquier dispositivo gracias al uso de media queries.",
+        "highlights": [
+          "Vue.js", "Bootstrap", "Fetch"
+        ],
+        "url": "https://israelcarrion.github.io/AmazingEvents-VUE/index.html"
+      },
+      {
+        "name": "Chapter One",
         "startDate": "2023-11-01",
         "endDate": "2023-11-30",
         "isActive": false,
@@ -228,10 +239,10 @@
         "url": "https://github.com/israelcarrion/BancMareNostrum"
       },
       {
-        "name": "PetShop",
+        "name": "Pet Shop",
         "startDate": "2023-09-01",
         "endDate": "2023-09-30",
-        "isActive": false,
+        "isActive": true,
         "description": "Se trato de un trabajo grupal donde se maquetó y armo de una tienda de mascotas. Utilizamos HTML, CSS, JavaScript, Vue.js y Bootstrap. Implementamos un diseño web responsive.",
         "highlights": [
           "Responsive", "Bootstrap"
